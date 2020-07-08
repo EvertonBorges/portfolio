@@ -5,6 +5,25 @@
 - [LinkedIn](https://www.linkedin.com/in/everton-soares-borges/)
 - [Itch.io](https://evertonborges.itch.io/)
 
+## Skills:
+| Experience | Tchenologies |
+|------------|--------------|
+| * | Clear Code, Design Patterns |
+| 3-4 years  | Java, Git, SQL  |
+| 2-3 years  | C#, HTML, Javascript, Unity |
+| 1-2 years  | CSS, Firebase, Kotlin |
+| 0-1 year   | Docker, Laravel, Spring Boot, TDD |
+
+## Games and game prototypes:
+| Name | Links |
+|------|-------|
+| Trash Dash | [Itch.io](https://evertonborges.itch.io/trash-dash), [Github](https://github.com/EvertonBorges/Unity3D-Test-Set) |
+| UnityInventorySystem - PROTOTYPE | [Github](https://github.com/EvertonBorges/UnityInventorySystem) |
+| Devil's Memory Challenge | [Global Game Jam 2020](https://globalgamejam.org/2020/games/devils-memory-challenge-7) |
+| BubbleMe | [Itch.io](https://evertonborges.itch.io/bubbleme), [Global Game Jam 2019](https://globalgamejam.org/2019/games/bubble-me) |
+| Taluwaves | [Global Game Jam 2017](https://globalgamejam.org/2017/games/taluwaves) |
+| CatRaft | [Galaxy Store](https://galaxystore.samsung.com/detail/com.Troubles.CatTrouble?session_id=W_13fe65480859b1369edd356804d6f336) |
+
 ## Frontend:
 ### Creations:
 | Preview | Repository | Technologies |
