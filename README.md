@@ -1,8 +1,11 @@
 # Portfolio
 
+## Social Media:
+- [GitHub](https://github.com/EvertonBorges)
+- [LinkedIn](https://www.linkedin.com/in/everton-soares-borges/)
+- [Itch.io](https://evertonborges.itch.io/)
+
 ## Frontend:
-
-
 ### Creations:
 | Preview | Repository | Technologies |
 |---------|------------|--------------|
